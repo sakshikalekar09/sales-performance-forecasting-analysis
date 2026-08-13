@@ -128,6 +128,7 @@ The model was evaluated using three metrics:
 **RMSE:** Measures the average size of prediction errors, giving more weight to larger errors.
 
 **MAE:** Measures the average absolute difference between actual and predicted sales.
+
 ---
 
 ##  Technologies Used
@@ -149,6 +150,7 @@ sales-forecasting-linear-regression/
 ├── train.csv
 ├── README.md
 └── requirements.txt
+Make sure you upload train.csv only if you are allowed to share the dataset publicly.
 ```
 
 ---
