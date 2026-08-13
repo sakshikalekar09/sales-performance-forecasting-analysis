@@ -144,12 +144,12 @@ The model was evaluated using three metrics:
 
 ##  Project Structure
 ```text
-sales-forecasting-linear-regression/
+sales-performance-forecasting-analysis
 │
-├── sales_forecasting.ipynb
-├── train.csv
 ├── README.md
-└── requirements.txt
+├── requirements.txt
+├── sales_forecasting.ipynb
+└── train.csv
 ```
 Make sure you upload train.csv only if you are allowed to share the dataset publicly.
 
