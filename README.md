@@ -150,8 +150,8 @@ sales-forecasting-linear-regression/
 ├── train.csv
 ├── README.md
 └── requirements.txt
-Make sure you upload train.csv only if you are allowed to share the dataset publicly.
 ```
+Make sure you upload train.csv only if you are allowed to share the dataset publicly.
 
 ---
 
@@ -183,6 +183,7 @@ Open:
 Assesment Task.ipynb
 ```
 Make sure `train.csv` is in the same folder as the notebook before running the cells.
+
 ---
 
 ##  Key Takeaways
