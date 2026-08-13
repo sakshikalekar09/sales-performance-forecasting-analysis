@@ -124,7 +124,9 @@ The model was evaluated using three metrics:
 ### What these metrics mean
 
 **R² Score:** Measures how well the model explains the variation in sales. A value of 0.637 means the model explains approximately 63.7% of the variation in the target.
+
 **RMSE:** Measures the average size of prediction errors, giving more weight to larger errors.
+
 **MAE:** Measures the average absolute difference between actual and predicted sales.
 ---
 
